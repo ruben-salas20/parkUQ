@@ -1,0 +1,45 @@
+package trabajoFinal.modelo;
+
+import trabajoFinal.enums.RolSistema;
+
+public class UsuarioSistema {
+
+    private String nombreUsuario;
+    private String contrasena;
+    private RolSistema rol;
+
+    public UsuarioSistema(String nombreUsuario, String contrasena, RolSistema rol) {
+        this.nombreUsuario = nombreUsuario;
+        this.contrasena = contrasena;
+        this.rol = rol;
+    }
+
+    public boolean autenticar(String usuario, String pass) {
+        return this.nombreUsuario.equals(usuario) && this.contrasena.equals(pass);
+    }
+
+    public String getNombreUsuario() {
+        return nombreUsuario;
+    }
+
+    public RolSistema getRol() {
+        return rol;
+    }
+
+    public void setNombreUsuario(String nombreUsuario) {
+        this.nombreUsuario = nombreUsuario;
+    }
+
+    public void setContrasena(String contrasena) {
+        this.contrasena = contrasena;
+    }
+
+    public void setRol(RolSistema rol) {
+        this.rol = rol;
+    }
+
+    @Override
+    public String toString() {
+        return nombreUsuario + " [" + rol + "]";
+    }
+}
