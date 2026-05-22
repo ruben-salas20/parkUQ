@@ -1,0 +1,21 @@
+# Compilados de Java / IntelliJ
+out/
+bin/
+*.class
+
+# Configuración local del IDE (específica de cada equipo)
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Configuración local del asistente de IA (no es parte del proyecto)
+.claude/
+AGENTS.md
+CLAUDE.md
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
