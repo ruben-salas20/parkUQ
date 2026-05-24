@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "5e9e0158ea15ffbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "802038a8ca03497f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b731cf0f70d60895",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Los 4 pilares de la POO.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 - Los 4 pilares de la POO"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68aff498b4961e06",
+    "type": "split",
+    "children": [
+      {
+        "id": "20ea9399f1b855c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04528d1449218577",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "1b56fa55437ba4ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "a2a6b397573b7d4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c3acf7fcc79e08b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b1b90bbbc783d26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03f0caa60a463e91",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 - Los 4 pilares de la POO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 03 - Los 4 pilares de la POO"
+            }
+          },
+          {
+            "id": "d677a374aa431b72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 - Los 4 pilares de la POO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 03 - Los 4 pilares de la POO"
+            }
+          },
+          {
+            "id": "f2b81518a764a2d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "4258e3036b2c6037",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "19700bbe4c78d7b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Los 4 pilares de la POO.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 03 - Los 4 pilares de la POO"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "b731cf0f70d60895",
+  "lastOpenFiles": [
+    "02 - Arquitectura en capas.md",
+    "01 - Visión general.md",
+    "00 - Índice.md",
+    "03 - Los 4 pilares de la POO.md",
+    "08 - Puntos débiles a defender.md",
+    "08 - Puntos débiles a defender.md.tmp.8804.559586490d6f",
+    "07 - Preguntas y respuestas de exposición.md",
+    "07 - Preguntas y respuestas de exposición.md.tmp.8804.07386d32beb6",
+    "06 - Cómo ejecutar y demostrar.md",
+    "06 - Cómo ejecutar y demostrar.md.tmp.8804.5dc15f675349",
+    "05 - Flujos principales.md",
+    "05 - Flujos principales.md.tmp.8804.efcea85c6854",
+    "04 - Diagrama de clases explicado.md",
+    "04 - Diagrama de clases explicado.md.tmp.8804.374e68481e11",
+    "03 - Los 4 pilares de la POO.md.tmp.8804.ce85db991257"
+  ]
+}
